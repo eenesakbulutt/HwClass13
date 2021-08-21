@@ -1,12 +1,12 @@
 package com.syntax.class13;
 
-public class Task1Tester {
+public class Task1TesterO {
 
 	public static void main(String[] args) {
 		
 		
 		
-	Task1 task1=new Task1();
+	Task1Object task1=new Task1Object();
 	task1.printGrater(10,20);
 	
 	

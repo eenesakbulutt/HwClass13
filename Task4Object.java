@@ -1,6 +1,6 @@
 package com.syntax.class13;
 
-public class Task4 {
+public class Task4Object {
 
 	
 	

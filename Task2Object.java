@@ -1,6 +1,6 @@
 package com.syntax.class13;
 
-public class Task2 {
+public class Task2Object {
 
 	//Create a method that will say Hello in different language based on the country that will passed when method is executed.	
 	

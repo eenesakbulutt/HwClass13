@@ -1,6 +1,6 @@
 package com.syntax.class13;
 
-public class Task5 {
+public class Task5Object {
 
 	//Create  class Student that will have a method getGrade. Your method should accept the score of a student and return a grade:
 	//	score > 90 - A

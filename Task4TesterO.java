@@ -1,11 +1,11 @@
 package com.syntax.class13;
 
-public class Task4Tester {
+public class Task4TesterO {
 
 	public static void main(String[] args) {
 		
 		
-	Task4 task4=new Task4();
+	Task4Object task4=new Task4Object();
 	
 	
 	System.out.println(task4.isPrime(10));
